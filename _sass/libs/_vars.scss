@@ -30,13 +30,14 @@
 
 // Palette.
 	$palette: (
-		bg:					#00A493,
-		bg-alt:				#72A79F,
+		bg-alt:				#00A493,
+		bg:					#72A79F,
 		fg:					#ffffff,
 		fg-bold:			#ffffff,
 		fg-light:			#9AD1C9,
 		border:				#61696E,
-		border-bg:			rgba(212,212,255,0.035),
+		border-bg:			rgba(212,212,255,0.075),
+		//border-bg:			#9AD1C9,
 		highlight:			#9bf1ff,
 		accent1:			#7E7896,
 		accent2:			#833D67,

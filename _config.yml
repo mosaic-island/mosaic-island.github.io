@@ -1,17 +1,18 @@
 # site settings
-title: Application Engineering
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: Mosaic Island
+subtitle: Application Engineering
+email: application.engineering@mosaicisland.co.uk
+description: An agile development team<br /> offering software development services.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
+author: Gareth Powell
+street_address:
 city: Bristol
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+state: Avon
+zip_code:
+country: United Kingdom
+phone: +44(0) 555-5555
+menu-text:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -25,7 +26,7 @@ socials:
   GitHub: https://github.com/mosaic-island
   GitLab:
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/mosaicisland
+  LinkedIn: https://www.linkedin.com/company/mosaic-island
   Twitter: https://twitter.com/mosaicisland
   Facebook:
   Slack:
@@ -41,3 +42,7 @@ exclude:
 - LICENSE.md
 - CONTRIBUTING.md
 - README.md 
+
+form:
+  contact-us:
+    id: https://formspree.io/f/myyazryn
