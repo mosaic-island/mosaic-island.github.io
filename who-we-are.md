@@ -31,7 +31,11 @@ Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibu
 	<div class="inner">
         <h3>Gareth Powell</h3>
 		<p><span class="image right">
-<img src="{% link assets/images/gpowell.png %}" alt="" /></span> In a career spanning more than 20n years developing software systems for a variety of business sectors, Gareth has been Principal Developer with Mosaic Island for the last 10 years. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris.</p>
+<img src="{% link assets/images/gpowell.png %}" alt="" /></span> In a career spanning more than 20n years developing software systems for a variety of business sectors, Gareth has been Principal Developer with Mosaic Island for the last 10 years. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris.
+            <ul class="actions">
+                <li><a href="https://garethpowell.github.io" class="button" target="_blank">Learn more</a></li>
+            </ul>
+        </p>
 	</div>
 </section>
 

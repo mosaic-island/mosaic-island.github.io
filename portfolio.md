@@ -17,7 +17,8 @@ Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibu
         <dl>
             <dt>Amazon Web Services</dt>
             <dd>
-                <p>The Application Engineering team has been working with Amazon Web Services (AWS) for the past 10 years. In 2017 they migrated the Which? CRM platform from a traditionally hosted application in RackSpace to AWS and were responsible for all aspects of its operation. The team are proficient in managing and </p>
+                <p>The Application Engineering team has been working with Amazon Web Services (AWS) for the past 10 years. In 2017 they migrated the Which? CRM platform from a traditionally hosted application in RackSpace to AWS and were responsible for all aspects of its operation. The team are proficient in managing and 
+                 operating and AWS deployment.</p>
             </dd>
             <dt>JVM Languages</dt>
             <dd>
@@ -38,11 +39,11 @@ Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibu
         <dl>
             <dt>Terraform</dt>
             <dd>
-                <p>The team are staunch believers in DevOps practices and Infrastructure as Code is core to that. Terraform has been across the team for a number of years while managing the Which? CRM platform in AWS.</p>
+                <p>The team are staunch believers in DevOps practices and Infrastructure as Code is core to that. Terraform has been used   across the team for a number of years while managing the Which? CRM platform in AWS.</p>
             </dd>
             <dt>CI/CD</dt>
             <dd>
-                <p>Continuous Integration and Continuous Deployment are at the heart of any software project within the Application Engineering team. The team are versed in using JetBrains' TeamCity, GitHub Actions and JetBrains Space. This allows the team to constantly ensure the integrity of the codebase and the deployed applications. Most issues are identified early, before going to Production.</p>
+                <p>Continuous Integration and Continuous Deployment are at the heart of any software project within the Application Engineering team. The team are versed in using JetBrains' TeamCity, GitHub Actions and JetBrains Space. This allows the team to constantly ensure the integrity of the codebase and the deployed applications. This ensures that most issues are identified early, before going to Production.</p>
             </dd>
             <dt>Item3</dt>
             <dd>
